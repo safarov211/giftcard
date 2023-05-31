@@ -139,19 +139,15 @@
     .header {
         background-color: aqua;
         flex-direction: column;
-        position: relative;
+        position: sticky;
 
 
     }
 
     .container {
         flex-direction: column;
-        top: 80px;
-
-
-
-
-
+        margin-top: 80px;
+        
     }
 
 
